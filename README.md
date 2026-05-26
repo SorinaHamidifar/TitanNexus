@@ -1,2 +1,2 @@
 # 
-A powerful convergence point for building scalable, resilient,
+A powerful convergence point for building scalable, 
