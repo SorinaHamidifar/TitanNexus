@@ -1,5 +1,5 @@
 # ==========================================
-# Project: Con
+# Project: Conver
 # Description:
 # A powerful convergence point for building scalable,
 # resilient, and impactful software projects.
