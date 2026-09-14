@@ -1,7 +1,7 @@
 # ==========================================
 # Project: ConvergeCore
 # Description:
-# A powerful convergence point for building 
+# A powerful convergence point for building scal
 # resilient, and impactful software projects.
 # ==========================================
 
