@@ -12,7 +12,7 @@ Main entry point for ConvergeCore.
 """
 
 from core.scalability import ScalabilityEngine
-from core.resilience import Resilience
+from core.resilience import ResilienceCore
 from core.impact import ImpactAnalyzer
 
 
